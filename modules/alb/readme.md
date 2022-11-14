@@ -1,0 +1,1 @@
+This repo contain config relating application load balancer with all essential settings. ie sg,default vpc etc
